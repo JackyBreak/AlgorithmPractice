@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="210af0f3-736f-457c-ad57-fa90121e0b13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/g.txt" beforeDir="false" afterPath="$PROJECT_DIR$/g.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AllPairsPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllPairsPath.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aFSwKZL8uZYWIc5lLQenRSTveE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Algorithm\GraphReview\Graph\DFS" />
+      <recent name="D:\Algorithm\GraphReview\Graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SingleSourcePathBFS">
+    <configuration name="BipartitionDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BipartitionDetection" />
+      <module name="Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BipartitionDetectionBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BipartitionDetectionBFS" />
+      <module name="Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CCBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CCBFS" />
+      <module name="Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CycleDetectionBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CycleDetectionBFS" />
+      <module name="Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleSourcePathBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleSourcePathBFS" />
+      <module name="Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleSourcePathBFS" />
+        <item itemvalue="Application.BipartitionDetectionBFS" />
+        <item itemvalue="Application.BipartitionDetection" />
+        <item itemvalue="Application.CycleDetectionBFS" />
+        <item itemvalue="Application.CCBFS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="210af0f3-736f-457c-ad57-fa90121e0b13" name="Default Changelist" comment="" />
+      <created>1586330085588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586330085588</updated>
+      <workItem from="1586330086925" duration="3387000" />
+      <workItem from="1586369291760" duration="3507000" />
+      <workItem from="1586457330629" duration="24000" />
+      <workItem from="1586457455802" duration="3714000" />
+      <workItem from="1586626305757" duration="5233000" />
+      <workItem from="1586653892517" duration="4916000" />
+      <workItem from="1586731950362" duration="6368000" />
+      <workItem from="1586824324280" duration="6464000" />
+      <workItem from="1586905818768" duration="1936000" />
+      <workItem from="1587244669971" duration="19000" />
+      <workItem from="1587244701606" duration="266000" />
+      <workItem from="1587253416146" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="93" key="#Project_Structure" timestamp="1586330091075">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="93" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1586330091075" />
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1586330907286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586330907286" />
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586826021133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1586826021133" />
+    <state x="551" y="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586826022352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="551" y="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1586826022352" />
+    <state x="363" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586375472741">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="363" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1586375472741" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1587244965425">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587244965425" />
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1586908088335">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586908088335" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1586908088334">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586908088334" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1586908088334">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586908088334" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1586908088334">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586908088334" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1586830830532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586830830532" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1586830830532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586830830532" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1586830830532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586830830532" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1586830830532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586830830532" />
+    <state x="279" y="77" key="SettingsEditor" timestamp="1586330246833">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586330246833" />
+    <state x="209" y="52" key="new project wizard" timestamp="1587244967830">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="52" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1587244967830" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1586829635382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586829635382" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586736881700">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586736881700" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BipartitionDetection.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BipartitionDetection.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PathBFS.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
